@@ -3,7 +3,8 @@
 include_once './includes/_dados.php';
 include_once './includes/_head.php';
 include_once './includes/_header.php';
-$id = $_GET['id'];
+include_once './includes/_bancos.php';
+//$id = $_GET['id'];
 ?>
 <div class="center">
     <div class="row">
