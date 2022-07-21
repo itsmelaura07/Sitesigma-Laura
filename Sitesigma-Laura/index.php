@@ -33,9 +33,15 @@ include_once './includes/_bancos.php';
 <?php
     }
 ?>
+<?php
+print "<script> document.bgColor='red'</script>";
+$s=$_POST['op1']+$_POST['op2'];
+echo "O Resultado da soma é = ". $s;
+?>
 
 </div>
 </div>
+
 
 
 <?php

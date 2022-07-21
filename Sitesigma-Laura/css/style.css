@@ -2,19 +2,24 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
-}
+
+    }
+  
+
 #cards{
     display: flex;
     align-items: center;
     justify-content: center;
     
 }
+
 .center{
   position: relative; 
   left: 0; 
   right: 0;
   margin: 0 auto 0 auto; 
   width: 100vh;
+  background-color: aqua;
 
 }
 .center img{
