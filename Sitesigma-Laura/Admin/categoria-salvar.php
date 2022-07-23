@@ -7,3 +7,10 @@ include_once '../includes/_menu.php';
 
 include_once './includes/_dados.php';
 ?>
+
+
+
+
+<?php
+include_once './_footer.php';
+?>
